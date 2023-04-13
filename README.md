@@ -4,6 +4,11 @@
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=RiseInRose.autogpt&left_color=blue&right_color=green)
 [![](https://dcbadge.vercel.app/api/server/PQ7VX6TY4t?style=flat)](https://discord.gg/PQ7VX6TY4t)
 
+给 Auto-GPT 一个目标，它将调用chatgpt的智慧，调用各种工具action，不断逼近直到实现这个目标。
+
+比如，你可以给它100元基础资金，设定目标让他自己帮你赚钱
+比如，你可以设定，让他做各种事请，让世界更美好
+比如，你可以设定，让他创建自己组织，并尽可能的扩大自己的组织 等等等等
 
 Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4 语言模型的能力。这个程序由 GPT-4 驱动，将 LLM “思想”链接在一起，自主地实现您设定的任何目标。作为 GPT-4 完全自主运行的第一个示例之一，Auto-GPT 推动了人工智能可能性的边界。
 
