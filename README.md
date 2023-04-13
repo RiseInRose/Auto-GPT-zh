@@ -307,4 +307,4 @@ HUGGINGFACE_API_TOKEN="YOUR_HUGGINGFACE_API_TOKEN"
 | <img src="./img/WechatIMG88.jpeg" width="300"/> | <img src="./img/WechatIMG87.jpeg" width="300"/> | <img src="./img/WechatIMG81.jpeg" width="300"/> |
 
 ## 感谢
-该项目翻译自 [Auto-GPT](https://github.com/Torantulino/Auto-GPT#%EF%B8%8F-speech-mode) 
+该项目大部分翻译自 [Auto-GPT](https://github.com/Torantulino/Auto-GPT#%EF%B8%8F-speech-mode) 
