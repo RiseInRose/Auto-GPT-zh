@@ -3,7 +3,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/auto-gpt?style=social)
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=RiseInRose.autogpt&left_color=blue&right_color=green)
 [![](https://dcbadge.vercel.app/api/server/PQ7VX6TY4t?style=flat)](https://discord.gg/PQ7VX6TY4t)
-[![Unit Tests](https://github.com/Torantulino/Auto-GPT/actions/workflows/unit_tests.yml/badge.svg)](https://github.com/Torantulino/Auto-GPT/actions/workflows/unit_tests.yml)
+
 
 Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4 语言模型的能力。这个程序由 GPT-4 驱动，将 LLM “思想”链接在一起，自主地实现您设定的任何目标。作为 GPT-4 完全自主运行的第一个示例之一，Auto-GPT 推动了人工智能可能性的边界。
 
@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/22963551/228855501-2f5777cf-755b-4407-
   - [💾 安装](#-安装)
   - [🔧 使用](#-使用)
   - [🗣️ 语音模式](#️-语音模式)
-  - [🔍 谷歌 API 密钥配置](# -谷歌 API 密钥配置)
+  - [🔍 谷歌API密钥配置](#-谷歌API密钥配置)
     - [设置环境变量](#设置环境变量)
   - [💀 连续模式 ⚠️](#-连续模式-️)
   - [仅限GPT3.5模式](#仅限GPT3.5模式)
@@ -126,7 +126,7 @@ python scripts/main.py --debug
 python scripts/main.py --speak
 ```
 
-## 🔍 谷歌 API 密钥配置
+## 🔍 谷歌API密钥配置
 
 此部分是可选的，如果在运行谷歌搜索时遇到错误429问题，请使用官方谷歌API。
 要使用 `google_official_search` 命令，您需要在环境变量中设置谷歌 API 密钥。
@@ -300,31 +300,6 @@ HUGGINGFACE_API_TOKEN="YOUR_HUGGINGFACE_API_TOKEN"
 
 如果使用 Auto-GPT，您需要同意赔偿、捍卫和使开发人员、贡献者和任何附属方免受任何和所有索赔、损害、损失、责任、成本和费用（包括合理律师费）的影响，这些影响是由您使用本软件或违反这些条款导致的。
 
-
-## 运行测试
-
-要运行测试，请运行以下命令：
-
-```
-python -m unittest discover tests
-```
-
-要运行测试并查看覆盖率，请运行以下命令：
-
-```
-coverage run -m unittest discover tests
-```
-
-## 运行 Linter
-
-该项目使用 [flake8](https://flake8.pycqa.org/en/latest/) 进行代码风格检查。要运行 linter，请运行以下命令：
-
-```
-flake8 scripts/ tests/
-
-# 或者，如果您想使用与 CI 相同的配置运行 flake8：
-flake8 scripts/ tests/ --select E303,W293,W291,W292,E305
-```
 
 ## 国内交流群
 |              直接加群               |                 如果前面的过期，加我拉你入群                  |                      知识星球                       |
