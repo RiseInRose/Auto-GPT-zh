@@ -309,9 +309,12 @@ HUGGINGFACE_API_TOKEN="YOUR_HUGGINGFACE_API_TOKEN"
 
 
 ## 国内交流群
+群主会不定期发布 各类亮眼项目体验版本 供大家体验，星球会不定期发布一些商业化的 AI 工具。欢迎各位读者老爷，漂亮姐姐给我的项目点赞！
+
 |              直接加群               |                 如果前面的过期，加我拉你入群                  |                      知识星球                       |
 |:-------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
 | <img src="./img/WechatIMG88.jpeg" width="300"/> | <img src="./img/WechatIMG87.jpeg" width="300"/> | <img src="./img/WechatIMG81.jpeg" width="300"/> |
+
 
 ## 感谢
 该项目大部分翻译自 [Auto-GPT](https://github.com/Torantulino/Auto-GPT#%EF%B8%8F-speech-mode) 
