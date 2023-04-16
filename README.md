@@ -5,6 +5,8 @@
 [![](https://dcbadge.vercel.app/api/server/PQ7VX6TY4t?style=flat)](https://discord.gg/PQ7VX6TY4t)
 
 --- 
+新的中文汉化版本+汉化安装文档请移步[AutoGPT-ZH](https://github.com/RiseInRose/AutoGPT-ZH)
+
 ### 简介
 给 Auto-GPT 一个目标，它将调用chatgpt的智慧，调用各种工具action，不断逼近直到实现这个目标。     
 
