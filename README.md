@@ -4,15 +4,6 @@
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=RiseInRose.autogpt&left_color=blue&right_color=green)
 [![](https://dcbadge.vercel.app/api/server/PQ7VX6TY4t?style=flat)](https://discord.gg/PQ7VX6TY4t)
 
---- 
-
-
-# Auto-GPT：一个自主的 GPT-4 实验
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/auto-gpt?style=social)
-![visitors](https://visitor-badge.deta.dev/badge?page_id=RiseInRose.autogpt&left_color=blue&right_color=green)
-[![](https://dcbadge.vercel.app/api/server/PQ7VX6TY4t?style=flat)](https://discord.gg/PQ7VX6TY4t)
-
 ### 简介
 给 Auto-GPT 一个目标，它将调用chatgpt的智慧，调用各种工具action，不断逼近直到实现这个目标。     
 
@@ -27,9 +18,12 @@ Auto-GPT 是一个实验性的开源应用程序，展示了 GPT-4 语言模型�
 2. 自由写作，机器人生成作品，自动发布，自动写作
 3. 自动营销
 
-如果对你有帮助，请点击右上角，帮我star
+如果对你有帮助，请点击右上角，帮我star.   
 [欢迎加入国内AI商业应用交流群](#国内交流群)
 新的中文汉化版本+汉化安装文档请移步[AutoGPT-ZH](https://github.com/RiseInRose/AutoGPT-ZH)
+
+群主实际体验以后，发现autogpt能做的事情非常有限（还很傻）！！！（但是这个想法非常有潜力）！！！   
+还是一句话，大家不要焦虑，不要焦虑。后续群主会录制测评视频。来科普实际情况。
 
 ### 原理图
 很多人问我，autogpt 运行原理是什么样的，特地补充一张图.  
